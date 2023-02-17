@@ -1,5 +1,4 @@
 # Australian Temperature Modelling & Prediction 
-# Author: Mathew Gao
 
 This project explores the MonthlyTemp.csv data set containing monthly average maximum and minimum temperatures, as well as highest and lowest temperatures observed at Laverton RAAF weather station in Melbourne. The aim is to provide a data-driven analysis of climate change in Melbourne and determine if there is evidence of global warming based on the data.
 
